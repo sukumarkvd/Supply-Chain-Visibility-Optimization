@@ -1,0 +1,7 @@
+file,original_rows,cleaned_rows,duplicates_removed,missing_values_after_cleaning,columns
+products.csv,200,200,0,0,6
+orders.csv,12000,12000,0,0,10
+shipments.csv,12000,12000,0,0,12
+inventory.csv,1800,1800,0,0,8
+suppliers.csv,40,40,0,0,7
+warehouses.csv,12,12,0,0,5

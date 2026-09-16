@@ -1,0 +1,13 @@
+Warehouse_ID,Warehouse_Name,City,State,Capacity_Units
+WH01,Warehouse_01,Hyderabad,Telangana,50678
+WH02,Warehouse_02,Vijayawada,Andhra Pradesh,96218
+WH03,Warehouse_03,Chennai,Tamil Nadu,83230
+WH04,Warehouse_04,Bengaluru,Karnataka,94055
+WH05,Warehouse_05,Mumbai,Maharashtra,76373
+WH06,Warehouse_06,Pune,Maharashtra,51480
+WH07,Warehouse_07,Delhi,Delhi,88836
+WH08,Warehouse_08,Kolkata,West Bengal,92258
+WH09,Warehouse_09,Ahmedabad,Gujarat,59986
+WH10,Warehouse_10,Jaipur,Rajasthan,44160
+WH11,Warehouse_11,Visakhapatnam,Andhra Pradesh,99111
+WH12,Warehouse_12,Coimbatore,Tamil Nadu,84929
